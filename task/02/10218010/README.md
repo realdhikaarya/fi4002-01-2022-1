@@ -7,11 +7,11 @@ Sebelumnya telah diberikan materi mengenai bagaimana simulasi dan komputasi dapa
 
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
+Materi yang paling menarik adalah keseluruhan, karena saya selalu tertarik dengan bagaimana sistem fisis bisa dimodelkan oleh karena sistem fisis yang dimodelkan umumnya hanyalah bayangan kita dan belum tentu ada secara fisik dan (bahkan) tidak dapat dibuat simulasi secara langsung di python (yang pada umumnya saya melihat sebagai contoh deep neural network dapat menghasilkan sesuatu yang nyata misalnya deteksi gambar)
 
 
 ## materi paling membosankan
-Materi yang paling menarik adalah keseluruhan, karena saya selalu tertarik dengan bagaimana sistem fisis bisa dimodelkan oleh karena sistem fisis yang dimodelkan umumnya hanyalah bayangan kita dan belum tentu ada secara fisik dan (bahkan) tidak dapat dibuat simulasi secara langsung di python (yang pada umumnya saya melihat sebagai contoh deep neural network dapat menghasilkan sesuatu yang nyata misalnya deteksi gambar)
+Materi paling membosankan adalah ketika menjelaskan proses fisisnya (misal osilasi harmonik) daripada memvisualisasikannya supaya lebih mudah dipahami
 
 
 ## materi yang sudah dipahami
